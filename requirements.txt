@@ -68,3 +68,4 @@ waitress==3.0.0
 webargs==8.3.0
 Werkzeug==3.0.1
 wrapt==1.14.1
+Gunicorn
